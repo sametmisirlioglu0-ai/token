@@ -1,5 +1,5 @@
 // @title Fiber JWT API
-// @version 1.0
+// @version 1.1
 // @description Basit JWT kimlik doğrulama sistemi
 // @host localhost:8080
 // @BasePath /
